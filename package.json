@@ -1,0 +1,16 @@
+{
+  "name": "api_stand-up",
+  "version": "1.0.0",
+  "description": "api для сервиса регистрации на stand-up",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Sofia Terekhova kuzpugonka <6599255@bk.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
